@@ -1,0 +1,20 @@
+/*style body page evenement*/
+#Evenement
+{
+	grid-template-columns: 250px 1fr;
+}
+
+/*style coprs page evenement*/
+#evenement
+{
+	display: block;
+	width: 100%;
+	grid-column: 2/2;
+}
+
+/*style aside page evenement*/
+#listEvenement
+{
+	grid-column: 1/1;
+	grid-row: 2/2;
+}

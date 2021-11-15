@@ -1,0 +1,18 @@
+/*animation éléments bandeau navigation*/
+nav div:hover
+{
+	transition: all 0.8s ease;
+	border: solid black;
+}
+/*animation titre niveau 1 et 2*/
+h1:hover,h2:hover,h3:hover,h4:hover
+{
+	transition: all 0.8s ease;
+	text-decoration: underline;
+}
+/*animation des titre*/
+a:hover
+{
+	transition: all 0.8s ease;
+	border: solid black;
+}

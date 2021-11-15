@@ -1,0 +1,89 @@
+/*zone stockage des chiffres*/
+.numbers
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+/*caractéristiques chiffres*/
+.number div:first-child
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-self: center;
+	font-size: 3rem;
+	border-radius:100%;
+	background-color: white;
+	height: 200px;
+	width: 200px;
+}
+
+/*animation chiffres*/
+.number div:first-child:hover
+{
+	transition: all 0.8s ease;
+	background-color: black;
+}
+
+/*correspondance des chiffres*/
+.number div:last-child
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	justify-self: center;
+	align-items: center;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+/*caractéristiques slogan*/
+.slogan
+{
+	display: flex;
+	justify-content: center;
+	grid-column: 1/3;
+	font-size: 1.5rem;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+/*caractéristiques video*/
+.video
+{
+	display: flex;
+	justify-content: center;
+	grid-column: 1/3;
+	border-radius: 15px 15px 5px 5px;
+	border: 5px solid white;
+	width: auto;
+	margin: auto;
+}
+/*zone d'écriture pied de page*/
+.footerBlock
+{
+	display: block;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+	padding: 2rem;
+}
+
+/*titre block pied de page*/
+.footerTitle
+{
+	font-size: 2rem;
+}
+/*style corp page inscription*/
+.inscription
+{
+	grid-column: 1/3;
+	display: block;
+	margin:auto;
+}
+/*style des dates des articles*/
+.date
+{
+	background-color:rgba(102, 102, 102, 0.74);
+}

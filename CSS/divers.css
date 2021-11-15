@@ -1,0 +1,15 @@
+/*police pour tous sauf h1,h2,h3*/
+*:not(h1,h2,h3)
+{
+	font-family: Cambria;
+}
+/*taille d'écriture*/
+p,ul,footer,a,nav,aside,.number div:last-child,table,form,article,.sommaire,.number div:last-child
+{
+	font-size: 1rem;
+}
+/*éléments coloré en blanc*/
+a,footer,.number div:first-child:hover,h4,h3,h1,h2,aside,nav div,thead,td:first-child,caption,.sommaire,aside
+{
+	color: white;
+}

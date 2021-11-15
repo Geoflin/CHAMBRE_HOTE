@@ -1,0 +1,23 @@
+/*style formulaire inscription*/
+form
+{
+	margin:auto;
+}
+
+label
+{
+	display: block;
+	font-weight: bold;
+}
+
+fieldset
+{
+	border: 2px dashed rgb(201, 199, 199);
+	background-color: rgba(250, 210, 135, 0.315);
+}
+
+legend
+{
+	font-style: italic;
+	margin: auto;
+}
