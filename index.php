@@ -12,7 +12,7 @@
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/general.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/print.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -21,8 +21,8 @@
 
 	<nav>
 			<div><a href="index.html">ACCUEIL</a></div>
-			<div><a href="INSCRIPTION.html" target="_blank">CONTACT</a></div>
-			<div><a href="EVENEMENT.html" target="_blank">EVENEMENT</a></div>
+			<div><a>CONTACT</a></div>
+			<div><a>EVENEMENT</a></div>
 	</nav>
 
 	<header>
