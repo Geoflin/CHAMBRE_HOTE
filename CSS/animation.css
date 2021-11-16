@@ -16,3 +16,7 @@ a:hover
 	transition: all 0.8s ease;
 	border: solid black;
 }
+img:hover{
+	transition: all 0.8s ease;
+	
+}
