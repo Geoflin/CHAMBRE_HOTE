@@ -35,6 +35,7 @@ h4
 	grid-column:1/3;
 	display: flex;
 	justify-content:center;
+	text-align: center;
 	background-color:rgb(170, 144, 94);
 	font-size: 1.5rem;
 }
@@ -42,6 +43,7 @@ h4
 p
 {
 	text-align: center;
+	font-size: 1.5rem;
 }
 a{
 	font-style: none;
