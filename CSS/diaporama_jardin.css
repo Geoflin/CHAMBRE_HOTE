@@ -1,0 +1,77 @@
+.d1{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-color: #EDEDED;
+    background-size: 500px 500px;
+    animation: fondu 30s ease-in-out infinite both;
+    animation-play-state: paused;
+}
+.conteneur{
+    width: 100%;
+    margin: 50px auto;
+}
+.d1:hover{
+    animation-play-state: running;
+}
+@keyframes fondu{
+    0%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/JARDIN.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+    6%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/POT.jpg");
+        background-repeat:no-repeat;
+    width: 500px;
+    height: 500px;
+}
+12%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/POT2.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+    18%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/PISCINE.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+        24%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/1.jpg");
+            background-repeat:no-repeat;
+            width: 500px;
+            height: 500px;}
+            30%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/2.jpg");
+                background-repeat:no-repeat;
+                width: 500px;
+                height: 500px;}
+                36%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/3.jpg");
+                    background-repeat:no-repeat;
+                    width: 500px;
+                    height: 500px;}
+                    42%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/4.jpg");
+                        background-repeat:no-repeat;
+                        width: 500px;
+                        height: 500px;}
+                        58%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/5.jpg");
+                            background-repeat:no-repeat;
+                            width: 500px;
+                            height: 500px;}
+                            64%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/6.jpg");
+                                background-repeat:no-repeat;
+                                width: 500px;
+                                height: 500px;}
+                                70%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/7.jpg");
+                                    background-repeat:no-repeat;
+                                    width: 500px;
+                                    height: 500px;}    76%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/8.jpg");
+                                        background-repeat:no-repeat;
+                                        width: 500px;
+                                        height: 500px;}
+                                            82%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/9.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+        100%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/10.jpg");
+            background-repeat:no-repeat;
+            width: 500px;
+            height: 500px;}
+}
+
+
