@@ -1,0 +1,37 @@
+.d1{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-color: #EDEDED;
+    background-size: 500px 500px;
+    animation: fondu 15s ease-in-out infinite both;
+}
+.conteneur{
+    width: 100%;
+    margin: 50px auto;
+}
+.d1:hover, .d2:hover{
+    animation-play-state: paused;
+}
+@keyframes fondu{
+    0%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/JARDIN.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+    33.33%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/POT.jpg");
+        background-repeat:no-repeat;
+    width: 500px;
+    height: 500px;
+}
+    66.67%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/POT2.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+    100%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/COMMUN/PISCINE.jpg");
+        background-repeat:no-repeat;
+        width: 500px;
+        height: 500px;}
+}
+
+
