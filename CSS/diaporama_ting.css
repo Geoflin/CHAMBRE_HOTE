@@ -1,0 +1,40 @@
+.d1{
+    margin: auto;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-color: #EDEDED;
+    background-size: 100% 100%;
+    animation: fondu 15s ease-in-out infinite both;
+    animation-play-state: paused;
+}
+.conteneur{
+    width: 1000px;
+    margin: 50px auto;
+}
+.d1:hover{
+    animation-play-state: running;
+}
+@keyframes fondu{
+    0%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/CHAMBRE 2/CHAMBRE2.jpg");
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 500px;}
+    25%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/CHAMBRE 2/1.jpg");
+        background-repeat:no-repeat;
+    width: 90%;
+    height: 500px;
+}
+50%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/CHAMBRE 2/2.jpg");
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 500px;}
+    75%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/CHAMBRE 2/3.jpg");
+        background-repeat:no-repeat;
+        width: 100%;
+        height: 500px;}
+        100%{background-image: url("http://localhost:83/CHAMBRE_HOTE/1CHAMBRE_HOTE/PHOTOS/CHAMBRE 2/4.jpg");
+            background-repeat:no-repeat;
+            width: 100%;
+            height: 500px;}
+}
+
+

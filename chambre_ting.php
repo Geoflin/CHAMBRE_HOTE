@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
-		<title>Accueil Chambre d'hôte</title>
+		<title>Chambre ting size</title>
 
 		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/balise.css" rel="stylesheet" type="text/css" />
@@ -15,11 +15,11 @@
 		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/diaporama.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/diaporama_ting.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
-
+	
 	<body id="registration">
 
 	<nav>
@@ -29,29 +29,28 @@
 	</nav>
 
 	<header>
-			<div class="mainTitle">
-			<img src="PHOTOS/GRAPPE.png" height="90px"/>
-			<h1>Maison vigneronne au cœur du village</h1>
-			</div>
-	</header>
-	<div class="slogan">bienvenu chez vous !</div>
+        <div class="mainTitle">
+        <img src="PHOTOS/GRAPPE.png" height="90px"/>
+        <h1>Maison vigneronne au cœur du village</h1>
+        </div>
+</header>
+
+	<div class="slogan">bienvenu dans la chambre ting size !</div>
 
 	<aside>
-		<h4>Voici nos chambres:</h4>
+		<h4>Infos pratiques:</h4>
 		<ul>
-			<li><a href="chambre_king_size.html" target="_blank">voir chambre king size</a></li>
-			<li><a href="chambre_ting.html" target="_blank">voir chambre Ting</a></li>
-		</ul>
-		<h4>Voici notre batiment:</h4>
-		<ul>
-			<li><a href="jardin_piscine.html" target="_blank">voir jardin/piscine</a></li>
+			<li>2 voyageurs<i class="material-icons" id="openFileDownload">expand_more</i></li>
+            <li>1 chambre</li>
+            <li>1 lit</li>
+            <li>1 salle de bain</li>
 		</ul>
 	</aside>
 
 	<main>
-			<img src="PHOTOS/COMMUN/JARDIN.jpg"/>
-			<p>Bruno et David vous accueillent dans leur charmante vigneronne datant de 1860, entièrement restaurée. Elle est idéalement située entre Montpellier et Sète, proche de l'étang de Thau et des plages. Nous mettons à votre disposition une suite de 33m², chambre avec lit de 180 cm et salle de bain privative avec WC. L' accès se fait par un petit escalier en colimaçon. Petit déjeuner inclus. Parking public gratuit.
-			</p>
+			<img src="PHOTOS/CHAMBRE 2/CHAMBRE2.jpg"/>
+			<p></p>
+			
 	</main>
 
 	<footer>
