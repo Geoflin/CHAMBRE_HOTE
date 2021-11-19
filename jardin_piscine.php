@@ -23,7 +23,7 @@
 	<body id="registration">
 
 	<nav>
-			<div><a href="index.html">ACCUEIL</a></div>
+			<div><a href="index.php">ACCUEIL</a></div>
 			<div><a>CONTACT</a></div>
 			<div><a>EVENEMENT</a></div>
 	</nav>

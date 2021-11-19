@@ -23,7 +23,7 @@
 	<body id="registration">
 
 	<nav>
-			<div><a href="index.html">ACCUEIL</a></div>
+			<div><a href="index.php">ACCUEIL</a></div>
 			<div><a>CONTACT</a></div>
 			<div><a>EVENEMENT</a></div>
 	</nav>
@@ -39,12 +39,12 @@
 	<aside>
 		<h4>Voici nos chambres:</h4>
 		<ul>
-			<li><a href="chambre_king_size.html" target="_blank">voir chambre king</a></li>
-			<li><a href="chambre_ting.html" target="_blank">voir chambre Ting</a></li>
+			<li><a href="chambre_king_size.php" target="_blank">voir chambre king</a></li>
+			<li><a href="chambre_ting.php" target="_blank">voir chambre Ting</a></li>
 		</ul>
 		<h4>Voici notre batiment:</h4>
 		<ul>
-			<li><a href="jardin_piscine.html" target="_blank">voir jardin/piscine</a></li>
+			<li><a href="jardin_piscine.php" target="_blank">voir jardin/piscine</a></li>
 		</ul>
 	</aside>
 
