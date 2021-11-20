@@ -8,7 +8,6 @@
 
 		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/balise.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/general.css" rel="stylesheet" type="text/css" />
@@ -16,17 +15,12 @@
 		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/diaporama.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
 
 	<body id="registration">
-
-	<nav>
-			<div><a href="index.php">ACCUEIL</a></div>
-			<div><a>CONTACT</a></div>
-			<div><a>EVENEMENT</a></div>
-	</nav>
 
 	<header>
 			<div class="mainTitle">
@@ -34,19 +28,21 @@
 			<h1>Maison vigneronne au cœur du village</h1>
 			</div>
 	</header>
-	<div class="slogan">bienvenu chez vous !</div>
 
-	<aside>
-		<h4>Voici nos chambres:</h4>
-		<ul>
-			<li><a href="chambre_king_size.php" target="_blank">voir chambre king</a></li>
-			<li><a href="chambre_ting.php" target="_blank">voir chambre Ting</a></li>
-		</ul>
-		<h4>Voici notre batiment:</h4>
-		<ul>
-			<li><a href="jardin_piscine.php" target="_blank">voir jardin/piscine</a></li>
-		</ul>
-	</aside>
+	<nav>
+			<div><a href="index.php">ACCUEIL</a></div>
+			<div>
+				<ul id="menu-deroulant">
+					<li><a href="#">CHAMBRE</a>
+						<ul>
+							<li><a href="#">Chambre 1</a></li>
+							<li><a href="#">Chambre 2</a></li>
+						</ul>
+				</ul>
+			</div>
+			<div><a>REGION</a></div>
+	</nav>
+
 
 	<main>
 			<img src="PHOTOS/COMMUN/JARDIN.jpg"/>

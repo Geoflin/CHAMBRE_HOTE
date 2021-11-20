@@ -89,4 +89,10 @@
 }
 .mainTitle{
 	display: inline-flex;
+	padding-left: 100%;
+	padding-right: 100%;
+	width: max-content;
+}
+.white_color{
+	color: white; 
 }

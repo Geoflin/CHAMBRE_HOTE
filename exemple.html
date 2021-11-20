@@ -1,35 +1,19 @@
-/*animation éléments bandeau navigation*/
-nav div:hover
-{
-	transition: all 0.8s ease;
-	border: solid black;
-}
-/*animation titre niveau 1 et 2*/
-h1:hover,h2:hover,h3:hover,h4:hover
-{
-	transition: all 0.8s ease;
-	text-decoration: underline;
-}
-/*animation des titre*/
-a:hover
-{
-	transition: all 0.8s ease;
-	border: solid black;
-}
-img:hover{
-	transition: all 0.8s ease;	
-}
-i:hover{
-	transition: all 0.8s ease;	
-}
 
 
-/*menu déroulant*/
-#menu-deroulant, #menu-deroulant ul {
+    <ul id="menu-deroulant">
+        <li color= white><a href="#">CHAMBRE</a>
+            <ul>
+                <li><a href="#">Chambre 1</a></li>
+                <li><a href="#">Chambre 2</a></li>
+            </ul>
+    </ul>
+
+
+    <style>
+        #menu-deroulant, #menu-deroulant ul {
     padding: 0;
     margin: 0;
     list-style: none;
-	
 }
 #menu-deroulant {
 /* on centre le menu dans la page */
@@ -43,10 +27,10 @@ i:hover{
 /* on enlève ce comportement pour les liens du sous menu */
     display: inherit;
 }
-#menu-deroulant a{
+#menu-deroulant a {
     text-decoration: none;
     display: block;
-	color: black;
+	color:#000;
 }
 #menu-deroulant ul {
     position: absolute;
@@ -54,10 +38,9 @@ i:hover{
     left: -999em;
     text-align: left;
     z-index: 1000;
-	background-color: white;
-	
 }
 #menu-deroulant li:hover ul {
 /* Au survol des li du menu on replace les sous menus */
     left: auto;
 }
+    </style>
