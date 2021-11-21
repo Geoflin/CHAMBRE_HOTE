@@ -8,21 +8,34 @@
 
 		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/balise.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/general.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/diaporama.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/img.css" rel="stylesheet" type="text/css" />
+        <link href="CSS/diaporama_jardin.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
 
 	<body id="registration">
 
+	<nav>
+			<div><a href="index.php">ACCUEIL</a></div>
+			<div>
+				<ul id="menu-deroulant">
+					<li><a href="#">CHAMBRE</a>
+						<ul>
+							<li><a href="chambre_azur.php" id="azur">Chambre Azur</a></li>
+							<li><a href="chambre_or.php" id="or">Chambre Or</a></li>
+						</ul>
+				</ul>
+			</div>
+			<div><a href="jardin_piscine.php">JARDIN/PISCINE</a></div>
+			<div><a>REGION</a></div>
+	</nav>
 
 	<header>
 			<div class="mainTitle">
@@ -30,28 +43,15 @@
 			<h1>Maison vigneronne au cœur du village</h1>
 			</div>
 	</header>
+	<div class="slogan">bienvenu chez vous !</div>
 
-	<nav>
-		<div><a href="index.html">ACCUEIL</a></div>
-		<div>
-			<ul id="menu-deroulant">
-				<li><a href="#">CHAMBRE</a>
-					<ul>
-						<li><a href="chambre_azur.html" id="azur">Chambre Azur</a></li>
-						<li><a href="chambre_or.html" id="or">Chambre Or</a></li>
-					</ul>
-			</ul>
-		</div>
-		<div><a href="jardin_piscine.html">JARDIN/PISCINE</a></div>
-		<div><a>REGION</a></div>
-</nav>
-
+	<aside>
+	</aside>
 
 	<main>
-			<img src="PHOTOS/COMMUN/JARDIN.jpg" class="img"/>
-			<div class="style">Notre jardin</div> 
-			<p>Bruno et David vous accueillent dans leur charmante vigneronne datant de 1860, entièrement restaurée. Elle est idéalement située entre Montpellier et Sète, proche de l'étang de Thau et des plages. Nous mettons à votre disposition une suite de 33m², chambre avec lit de 180 cm et salle de bain privative avec WC. L' accès se fait par un petit escalier en colimaçon. Petit déjeuner inclus. Parking public gratuit.
-			</p>
+<div class="conteneur">
+  <div class="d1"></div>
+</div>
 	</main>
 
 	<footer>
