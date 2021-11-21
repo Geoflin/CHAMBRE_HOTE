@@ -24,6 +24,7 @@ nav, .mainTitle{
 /*caractéristique bandeau navigation*/
 nav
 {
+	font-family: Trattatello;
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
