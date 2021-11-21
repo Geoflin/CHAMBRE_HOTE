@@ -6,9 +6,9 @@ h1,h2
 	width: 1fr;
 	height: auto;
 	padding: 1rem;
-	background-color: rgba(9, 96, 136, 0.616);
-	font-weight:bold;
+	color: rgb(61, 61, 61);
 	font-size: 2.2rem;
+	font: Arial;
 }
 /*caractéristiques supplémentaires titre niveau 2*/
 h2
@@ -47,5 +47,8 @@ p
 a{
 	font-style: none;
 	text-decoration: none;
-	color: black;
+	color: #FFD700;
+}
+footer a{
+	color: #FFD700;
 }

@@ -6,7 +6,7 @@
 /*taille d'écriture*/
 
 /*éléments coloré en blanc*/
-footer,.number div:first-child:hover,h4,h3,h1,h2,aside,nav div,thead,td:first-child,caption,.sommaire,aside
+footer,.number div:first-child:hover,thead,td:first-child,caption,.sommaire,aside
 {
 	color: white;
 }

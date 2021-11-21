@@ -46,7 +46,6 @@ i:hover{
 #menu-deroulant a{
     text-decoration: none;
     display: block;
-	color: black;
 }
 #menu-deroulant ul {
     position: absolute;
