@@ -12,9 +12,9 @@
 
 .style_or{
 	font-family: Trattatello;
-	position:absolute;
-	top:300px;
-	left: 400px;
+	position:relative;
+	top:35%;
+	left: 30%;
 	width:max-content;
 	height:max-content;
 	z-index:2;
