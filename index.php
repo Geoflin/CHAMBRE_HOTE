@@ -31,17 +31,17 @@
 	</header>
 
 	<nav>
-		<div><a href="index.html">ACCUEIL</a></div>
+		<div><a href="index.php">ACCUEIL</a></div>
 		<div>
 			<ul id="menu-deroulant">
 				<li><a href="#">CHAMBRE</a>
 					<ul>
-						<li><a href="chambre_azur.html" id="azur">Chambre Azur</a></li>
-						<li><a href="chambre_or.html" id="or">Chambre Or</a></li>
+						<li><a href="chambre_azur.php" id="azur">Chambre Azur</a></li>
+						<li><a href="chambre_or.php" id="or">Chambre Or</a></li>
 					</ul>
 			</ul>
 		</div>
-		<div><a href="jardin_piscine.html">JARDIN/PISCINE</a></div>
+		<div><a href="jardin_piscine.php">JARDIN/PISCINE</a></div>
 		<div><a>REGION</a></div>
 </nav>
 
