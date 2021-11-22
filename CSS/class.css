@@ -96,3 +96,20 @@
 .white_color{
 	color: white; 
 }
+.points_fort{
+	display: flex;
+	justify-content: space-around;
+	font-size: 2rem;
+}
+.points_fort div{
+	border: solid;
+	background-color: #BEA88F;
+	color: #FFD700;
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 50%;
+	height: 19vw;
+	width: 19vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

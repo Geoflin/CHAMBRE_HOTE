@@ -26,6 +26,3 @@ const closeDisplayFrontEndLanguage = () => {
     openDisplayJs.style.display= "flex"
     closeDisplayJs.style.display= "none"
 }
-
-openDisplayFrontEndlanguage.addEventListener('click', openDisplayFrontEndLanguage)
-closeDisplayFrontEndlanguage.addEventListener('click', closeDisplayFrontEndLanguage)

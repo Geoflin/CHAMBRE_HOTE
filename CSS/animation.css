@@ -4,12 +4,6 @@ nav div:hover
 	transition: all 0.8s ease;
 	border: solid black;
 }
-/*animation titre niveau 1 et 2*/
-h1:hover,h2:hover,h3:hover,h4:hover
-{
-	transition: all 0.8s ease;
-	text-decoration: underline;
-}
 /*animation des titre*/
 a:hover
 {
@@ -59,4 +53,9 @@ i:hover{
 #menu-deroulant li:hover ul {
 /* Au survol des li du menu on replace les sous menus */
     left: auto;
+}
+
+
+.Ambiance:hover{
+    display: flex;
 }
