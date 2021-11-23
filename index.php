@@ -5,7 +5,6 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 		<title>Accueil Chambre d'hôte</title>
-
 		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/balise.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
@@ -27,21 +26,22 @@
 			<div class="mainTitle">
 			<img src="PHOTOS/GRAPPE.png" height="90px"/>
 			<h1>Maison vigneronne au cœur du village</h1>
+			<div id="translator_6086"><noscript>Javascript is disable - <a href="http://www.supportduweb.com/">http://www.supportduweb.com/</a> - <a href="http://www.supportduweb.com/generateur-boutons-traduction-translation-google-gratuit-html-code=script-boutons-traduire-page-web.html">Générateur de boutons de traduction</a></noscript></div><script type="text/javascript" src="http://services.supportduweb.com/translator/6086-3-ynnynnnnn.js"></script>
 			</div>
 	</header>
 
 	<nav>
-		<div><a href="index.html">ACCUEIL</a></div>
+		<div><a href="index.php">ACCUEIL</a></div>
 		<div>
 			<ul id="menu-deroulant">
 				<li><a href="#">CHAMBRE</a>
 					<ul>
-						<li><a href="chambre_azur.html" id="azur">Chambre Azur</a></li>
-						<li><a href="chambre_or.html" id="or">Chambre Or</a></li>
+						<li><a href="chambre_azur.php" id="azur">Chambre Azur</a></li>
+						<li><a href="chambre_or.php" id="or">Chambre Or</a></li>
 					</ul>
 			</ul>
 		</div>
-		<div><a href="jardin_piscine.html">JARDIN/PISCINE</a></div>
+		<div><a href="jardin_piscine.php">JARDIN/PISCINE</a></div>
 		<div><a>REGION</a></div>
 </nav>
 
@@ -67,6 +67,7 @@
 
 			<h2>Ils parlent de nous !</h2>
 			<h1><div class="airbnb-embed-frame" data-id="50823599" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/50823599?guests=1&amp;amp;adults=1&amp;amp;s=66&amp;amp;source=embed_widget">Voir sur Airbn</a><a href="https://www.airbnb.fr/rooms/50823599?guests=1&amp;amp;adults=1&amp;amp;s=66&amp;amp;source=embed_widget" rel="nofollow">Maison vigneronne au cœur du village 1</a><script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script></div></h1>
+
 	</main>
 
 	<footer>
