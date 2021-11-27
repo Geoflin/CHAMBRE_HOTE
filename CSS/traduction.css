@@ -1,0 +1,72 @@
+.ySelector .element.selected, .ySelector .element.selected:hover {
+    border: 1px
+ solid #777777;
+    background: #ffffff;
+}
+.ySelector .element {
+    padding: 10px
+;
+    margin: 10px
+;
+    border: 1px
+ solid #aaaaaa;
+    background: #e9e9e9;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 15px 3px
+;
+    box-shadow: rgb(0 0 0 / 30%) 0px 0px 6px 0px;
+    -webkit-box-shadow: rgb(0 0 0 / 30%) 0px 0px 6px 0px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.298039) 0px 0px 6px 0px;
+}
+.ySelector .element.selected, .ySelector .element.selected:hover  {
+    margin: 0px
+;
+    padding: 0px
+;
+    border: 0px
+;
+    border-spacing: 0px
+;
+    cursor: default;
+}
+.ySelector {
+    text-align: center;
+}
+body>section {
+    text-align: left;
+    margin: auto;
+    width: 1055px
+;
+    position: relative;
+    margin-top: -50px
+;
+    bottom: -40px
+;
+}
+body {
+    background: url(images/background.png);
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 0.8em;
+    line-height: 1.5;
+    color: #101010;
+    min-width: 1024px
+;
+}
+@media (max-width: 960px){
+    .wrapper {
+        width: auto;
+        border: 0px;
+        word-wrap: break-word;
+    }
+}
+.element{
+    margin-left: 400px;
+    margin-top: 40px;
+}
+
+/*affichage*/
+en{
+    display: none;
+}
