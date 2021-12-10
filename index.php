@@ -33,7 +33,6 @@
                 <div id="translator_3"><a style="cursor:pointer;margin:1px;display:inline-block;" onclick="translate_page('en');"><div style="width: 50px; height: 50px; background: url(&quot;http://services.supportduweb.com/translator/styles/images/s3.png&quot;) 0px 0px; display: inline-block; padding: 0px; margin: 0px;" onmouseover="this.style.backgroundPosition='-0px -50px';" onmouseout="this.style.backgroundPosition='-0px 0px';" alt="English">
 				</div><a style="cursor:pointer;margin:1px;display:inline-block;" onclick="translate_page('fr');"><div style="width: 50px; height: 50px; background: url(&quot;http://services.supportduweb.com/translator/styles/images/s3.png&quot;) -150px 0px; display: inline-block; padding: 0px; margin: 0px;" onmouseover="this.style.backgroundPosition='-150px -50px';" onmouseout="this.style.backgroundPosition='-150px 0px';" alt="Français">
 			</div>
-
 	</header>
 
 	<nav>
@@ -52,9 +51,12 @@
 		<div><a href="jardin_piscine.php"><en>CONTACT</en>CONTACT</a></div>
 </nav>
 
-	<main>
+<aside>
+</aside>
+
+	<main class="maxwidth">
 			<img src="PHOTOS/COMMUN/JARDIN.jpg" class="img"/>
-			<div class="style"><en>Open all year</en>Ouvert toute l'année</div> 
+			<div class="style"><en>Open all year</en></div> 
 			<p><en>Bruno and David welcome you to their charming winegrower dating from 1860, completely restored. It is ideally located between Montpellier and Sète, close to the Thau lagoon and the beaches. We provide you with a 33m² suite, bedroom with 180cm bed and private bathroom with WC. Access is via a small spiral staircase. Breakfast included. Free public parking.</en>Bruno et David vous accueillent dans leur charmante vigneronne datant de 1860, entièrement restaurée. Elle est idéalement située entre Montpellier et Sète, proche de l'étang de Thau et des plages. Nous mettons à votre disposition une suite de 33m², chambre avec lit de 180 cm et salle de bain privative avec WC. L' accès se fait par un petit escalier en colimaçon. Petit déjeuner inclus. Parking public gratuit.</p>
 
 			<h2><en>Our strong points</en>Nos points forts</h2>
