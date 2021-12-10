@@ -63,11 +63,10 @@
 /*zone d'écriture pied de page*/
 .footerBlock
 {
-	display: block;
+	display: inline;
 	text-align: center;
 	align-items: center;
 	margin: auto;
-	padding: 2rem;
 }
 
 /*titre block pied de page*/

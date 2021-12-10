@@ -45,6 +45,15 @@
         </div>
 </header>
 
+<aside>
+	<ul>
+		<li>2 voyageurs</li>
+		<li>1 chambre</li>
+		<li>1 lit</li>
+		<li>1 salle de bain privée</li>
+	</ul>
+</aside>
+
 <main>
 	<div class="conteneur">
 		<div class="d1"></div>

@@ -2,13 +2,13 @@
 nav div:hover
 {
 	transition: all 0.8s ease;
-	border: solid black;
+	text-decoration: underline black;
 }
 /*animation des titre*/
 a:hover
 {
 	transition: all 0.8s ease;
-	border: solid black;
+	text-decoration: underline black;
 }
 img:hover{
 	transition: all 0.8s ease;	
