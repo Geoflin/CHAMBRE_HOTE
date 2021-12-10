@@ -112,7 +112,3 @@
 	align-items: center;
 	justify-content: center;
 }
-.maxwidth{
-	display: flex;
-	grid-column: 1/3;
-}
