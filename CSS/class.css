@@ -1,3 +1,16 @@
+.img_region{
+	width: 1000px;
+}
+.box{
+	justify-items: space-between;
+	justify-content: center;
+	float: left;
+	padding: 1rem;
+	margin-right: 100px;
+}
+.box>h3 a{
+	color: black;
+}
 /*zone stockage des chiffres*/
 .numbers
 {
@@ -88,9 +101,16 @@
 }
 .mainTitle{
 	display: inline-flex;
-	padding-left: 100%;
-	padding-right: 100%;
 	width: max-content;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding-left: 500px;
+	padding-right: auto;
+	font-size: xx-large;
+}
+.element{
+	margin-right: 100px;
 }
 .white_color{
 	color: white; 

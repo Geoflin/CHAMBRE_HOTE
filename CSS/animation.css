@@ -1,5 +1,5 @@
 /*animation éléments bandeau navigation*/
-nav div:hover
+nav div:hover, #azur:hover, #or:hover, #menu-deroulant:hover
 {
 	transition: all 0.8s ease;
 	text-decoration: underline black;

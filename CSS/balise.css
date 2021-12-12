@@ -11,7 +11,7 @@ h1,h2
 	height: auto;
 	padding: 1rem;
 	color: rgb(61, 61, 61);
-	font-size: 2.2rem;
+	font-size: 3rem;
 	font: Arial;
 }
 /*caractéristiques supplémentaires titre niveau 2*/
@@ -22,6 +22,7 @@ h2
 	background-color:#BEA88F;
 	color: #FFD700;
 	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.2rem;
 }
 
 /*caractéristiques titre niveau 3*/
