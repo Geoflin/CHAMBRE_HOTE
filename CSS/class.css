@@ -112,3 +112,6 @@
 	align-items: center;
 	justify-content: center;
 }
+.index{
+	grid-column: 1/3;
+}
