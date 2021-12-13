@@ -59,3 +59,13 @@ a{
 footer a{
 	color: #FFD700;
 }
+iframe{
+	clear: both;
+}
+footer{
+	clear: both;
+}
+iframe{
+	margin-left: 35%;
+	margin-right: auto;
+}

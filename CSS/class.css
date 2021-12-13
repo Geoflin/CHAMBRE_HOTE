@@ -101,16 +101,10 @@
 }
 .mainTitle{
 	display: inline-flex;
-	width: max-content;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	padding-left: 500px;
-	padding-right: auto;
 	font-size: xx-large;
-}
-.element{
-	margin-right: 100px;
 }
 .white_color{
 	color: white; 
@@ -134,4 +128,9 @@
 }
 .index{
 	grid-column: 1/3;
+}
+.airbn{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
 }

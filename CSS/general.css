@@ -35,12 +35,11 @@ aside li
 }
 
 
-nav, .mainTitle{
+nav, header{
 	position:fixed;
-	grid-row: 1/1;
 	background-color: white;
-	margin-bottom: none;
 	z-index: 3;
+	height: 110%;
 }
 
 /*caractéristique bandeau navigation*/
@@ -51,10 +50,9 @@ nav
 	justify-content: space-around;
 	flex-wrap: wrap;
 	width: 100%;
-	margin-top: 110px;
+	margin-top: 5%;
 	height: 50px;
 	color: white;
-	margin: none;
 	background-color: #BEA88F;
 	letter-spacing: 5px;
 }
@@ -73,7 +71,12 @@ header
 	grid-column: 1/3;
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-end;
+	height: 10%;
+	padding-top: 1%;
+	margin-top: -0.5%;
+	width: 100%;
+	background-color: white;
 }
 
 /*caractéristique corps*/
