@@ -43,24 +43,18 @@
 
 			
 
-			<div class="points_fort">
-				<div class="Ambiance" id="Ambiance">Ambiance</div>
-				<div><en>Confidence</en>Confiance</div>
-				<div><en>position</en>Situation</div>
-			</div>
+				<div class="points_fort" id="Ambiance">
 
-			<div class="sous_points_fort">
-
-				<ul class="Ambiance">
+				<div>
+					<div class="cercle">Ambiance</div>
+					<ul class="Ambiance sous_points_fort box">
 					<li class="Ambiance">Calme en coeur de village</li>
                 </ul>
+</div>
 
-				<ul class="Confiance">
-					<li class="Confiance">Je suis un superhoste airbnb</li>
-					<li class="Confiance">J'ai de nombreux commentaire postifs</li>
-                </ul>
-
-				<ul class="Geographie">
+<div>
+					<div class="cercle geo">Géographie</div>
+					<ul class="Geographie sous_points_fort box">
 					<li class="Geographie">Ville attractive</li>
 					<ul>
 						<li>20 minute de Montpellier</li>
@@ -77,16 +71,31 @@
 								<li>8 minutes</li>
 							</ul>
                         </ul>
+						<li class="Geographie">Massif gardiole:</li>
+					<ul>
+						<li>Ballade + plage frontini</li>
+                    </ul>
 						<li>300m borne voiture électrique</li>
 						<li>Parking gratuit (20m libre)</li>
 					</ul>
-					<li class="Geographie">Massif gardiole:</li>
-					<ul>
-						<li>Ballade + plage frontini</li>
                 </ul>
+</div>
+
+<div>
+					<div class="cercle">Confiance</div>
+					<ul class="Confiance sous_points_fort box">
+					<li class="Confiance">Je suis un superhoste airbnb</li>
+					<li class="Confiance">J'ai de nombreux commentaire postifs</li>
                 </ul>
+				</div>
+
 
 </div>
+
+
+
+
+
 
 			<h2><en>REGION</en>Ils parlent de nous !</h2>
 
