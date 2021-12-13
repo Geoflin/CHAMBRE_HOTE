@@ -3,7 +3,7 @@ body
 {
 	display: grid;
 	grid-template-columns: 500px 1fr;
-	grid-template-rows: 100px max-content 100px;
+	grid-template-rows: 100px max-content max-content;
 	padding: none;
 	margin: none;
 	font-size: 5px;
@@ -40,7 +40,7 @@ nav, header{
 	position:fixed;
 	background-color: white;
 	z-index: 3;
-	height: 110%;
+	height: 100%;
 }
 
 /*caractéristique bandeau navigation*/
@@ -74,7 +74,7 @@ header
 	justify-content: center;
 	align-items: flex-end;
 	height: 10%;
-	padding-top: 1%;
+	padding-top: 2%;
 	margin-top: -0.5%;
 	width: 100%;
 	background-color: white;

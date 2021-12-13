@@ -134,3 +134,6 @@
 	flex-direction: row;
 	justify-content: space-around;
 }
+.Ambiance{
+	display: none;
+}

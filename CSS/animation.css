@@ -54,8 +54,3 @@ i:hover{
 /* Au survol des li du menu on replace les sous menus */
     left: auto;
 }
-
-
-.Ambiance:hover{
-    display: flex;
-}

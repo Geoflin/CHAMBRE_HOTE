@@ -5,7 +5,6 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 		<title>Accueil Chambre d'hôte</title>
-		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/balise.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
@@ -15,6 +14,7 @@
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/diaporama.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/img.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/traduction.css" rel="stylesheet" type="text/css" />
 
@@ -34,22 +34,59 @@
 	<main class="maxwidth index">
 			<img src="PHOTOS/COMMUN/JARDIN.jpg" class="img"/>
 			<div class="style"><en>Open all year</en></div> 
-			<p><en>Bruno and David welcome you to their charming winegrower dating from 1860, completely restored. It is ideally located between Montpellier and Sète, close to the Thau lagoon and the beaches. We provide you with a 33m² suite, bedroom with 180cm bed and private bathroom with WC. Access is via a small spiral staircase. Breakfast included. Free public parking.</en>Bruno et David vous accueillent dans leur charmante vigneronne datant de 1860, entièrement restaurée. Elle est idéalement située entre Montpellier et Sète, proche de l'étang de Thau et des plages. Nous mettons à votre disposition une suite de 33m², chambre avec lit de 180 cm et salle de bain privative avec WC. L' accès se fait par un petit escalier en colimaçon. Petit déjeuner inclus. Parking public gratuit.</p>
+			<p>texte_exemple texte_exemple texte_exemple texte_exemple texte_exemple texte_exemple texte_exempletexte_exemple vv vtexte_exemple texte_exempletexte_exemple texte_exemplev texte_exemple</p>
 
 			<h2><en>Our strong points</en>Nos points forts</h2>
 
 
 			<h3><en>Open all year !</en>Ouvert toute l'année !</h3>
 
+			
+
 			<div class="points_fort">
-				<div class="Ambiance" id="Ambiance"><en>Atmosphere</en>Ambiance</div>
+				<div class="Ambiance" id="Ambiance">Ambiance</div>
 				<div><en>Confidence</en>Confiance</div>
 				<div><en>position</en>Situation</div>
 			</div>
 
-			<section class="Ambiance">
-				<p class="Ambiance"><en>Quiet in the heart of the village</en>Calme en coeur de village</p>
-			</section>
+			<div class="sous_points_fort">
+
+				<ul class="Ambiance">
+					<li class="Ambiance">Calme en coeur de village</li>
+                </ul>
+
+				<ul class="Confiance">
+					<li class="Confiance">Je suis un superhoste airbnb</li>
+					<li class="Confiance">J'ai de nombreux commentaire postifs</li>
+                </ul>
+
+				<ul class="Geographie">
+					<li class="Geographie">Ville attractive</li>
+					<ul>
+						<li>20 minute de Montpellier</li>
+						<li>autoroute à 5km</li>
+						<li>Plage à proximité de la maison</li>
+						<ul>
+							<li>Frontignant:</li>
+							<ul>
+								<li>Plage des arestiers 20 minutes</li>
+								<li>Parking 800 places</li>
+							</ul>
+							<li>Ballruc le vieux:</li>
+							<ul>
+								<li>8 minutes</li>
+							</ul>
+                        </ul>
+						<li>300m borne voiture électrique</li>
+						<li>Parking gratuit (20m libre)</li>
+					</ul>
+					<li class="Geographie">Massif gardiole:</li>
+					<ul>
+						<li>Ballade + plage frontini</li>
+                </ul>
+                </ul>
+
+</div>
 
 			<h2><en>REGION</en>Ils parlent de nous !</h2>
 
