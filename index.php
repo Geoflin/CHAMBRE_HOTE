@@ -84,8 +84,8 @@
 <div>
 					<div class="cercle">Confiance</div>
 					<ul class="Confiance sous_points_fort box">
-					<li class="Confiance"><a class="white" href="https://www.airbnb.fr/rooms/50823599?source_impression_id=p3_1639562834_eIg9dsYM2F%2F7Thi0">Superhoste airbnb</a></li>
-					<li class="Confiance"><a class="white" href="https://www.airbnb.fr/rooms/50823599?source_impression_id=p3_1639562834_eIg9dsYM2F%2F7Thi0">Nombreux commentaire postifs</a></li>
+					<li class="Confiance"><a class="white" target="blank" href="https://www.airbnb.fr/rooms/50823599?source_impression_id=p3_1639562834_eIg9dsYM2F%2F7Thi0">Superhoste airbnb</a></li>
+					<li class="Confiance"><a class="white" target="blank"  href="https://www.airbnb.fr/rooms/51403986?source_impression_id=p3_1639563672_%2FRezGkrj74ZyA3pX">Nombreux commentaire postifs</a></li>
                 </ul>
 				</div>
 
