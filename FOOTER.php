@@ -3,4 +3,4 @@
 				<i class="material-icons">settings_phone</i>
 				<a href="tel:0678594959">Tél: 0684662522</a>
 				<i class="material-icons">email</i>
-				<a href="mailto:adresse@gmail.com">lavigneronnedegigean@gmail.com</a>
+				<a href="mailto:lavigneronnedegigean@gmail.com">lavigneronnedegigean@gmail.com</a>

@@ -58,16 +58,16 @@
 					<ul class="Geographie sous_points_fort box">
 					<li class="Geographie">Ville attractive</li>
 					<ul>
-						<li>20 minute de Montpellier</li>
-						<li>autoroute à 5km</li>
+						<li>20 minutes de Montpellier</li>
+						<li>autoroute à 5 km</li>
 						<li>Plage à proximité de la maison</li>
 						<ul>
-							<li>Frontignant:</li>
+							<li>Frontignan:</li>
 							<ul>
-								<li>Plage des arestiers 20 minutes</li>
+								<li>Plage des Aresquiers 20 minutes</li>
 								<li>Parking 800 places</li>
 							</ul>
-							<li>Ballruc le vieux:</li>
+							<li>Balaruc-le-Vieux:</li>
 							<ul>
 								<li>8 minutes</li>
 							</ul>
@@ -75,10 +75,6 @@
 						<li class="Geographie">Massif gardiole:</li>
 					<ul>
 						<li>Ballade + plage frontini</li>
-                    </ul>
-						<li>300m borne voiture électrique</li>
-						<li>Parking gratuit (20m libre)</li>
-					</ul>
                 </ul>
 </div>
 
@@ -86,7 +82,7 @@
 					<div class="cercle">Confiance</div>
 					<ul class="Confiance sous_points_fort box">
 					<li class="Confiance"><a class="white" target="blank" href="https://www.airbnb.fr/rooms/50823599?source_impression_id=p3_1639562834_eIg9dsYM2F%2F7Thi0">Superhoste airbnb</a></li>
-					<li class="Confiance"><a class="white" target="blank"  href="https://www.airbnb.fr/rooms/51403986?source_impression_id=p3_1639563672_%2FRezGkrj74ZyA3pX">Nombreux commentaire postifs</a></li>
+					<li class="Confiance"><a class="white" target="blank"  href="https://www.airbnb.fr/rooms/51403986?source_impression_id=p3_1639563672_%2FRezGkrj74ZyA3pX">Nombreux commentaires postifs</a></li>
                 </ul>
 				</div>
 

@@ -33,7 +33,7 @@
 	</nav>
 
 	<main class="maxwidth index">
-        <h1 >Les sites incoutournalbles de l'hérault !<h1>
+        <h1 >Les sites incontournables de l'hérault !<h1>
 
         <div class="conteneur">
 		<div class="d1"></div>

@@ -33,6 +33,8 @@
 
 	<aside>
 		<ul>
+			<li>300m borne voiture électrique</li>
+			<li>Parking gratuit (20m libre)</li>
 			<li>Piscine chauffée</li>
         </ul>
 	</aside>
