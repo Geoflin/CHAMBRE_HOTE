@@ -32,6 +32,5 @@
 	display: none;
 }
 #google_translate_element{
-	justify-self: flex-start;
-	clear: both;
+	justify-self: flex-end;
 }

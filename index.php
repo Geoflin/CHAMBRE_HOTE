@@ -9,7 +9,6 @@
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/general.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/diaporama.css" rel="stylesheet" type="text/css" />
@@ -17,6 +16,8 @@
 		<link href="CSS/animation.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/img.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/traduction.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/mobile.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>

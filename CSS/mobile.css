@@ -1,0 +1,24 @@
+@media screen and (max-width: 750px) {
+    body,grid{
+  display: flex;
+    }
+      body{
+      margin: none;
+      align-self: center;
+    }
+    grid{
+      align-items: flex-start;
+    }
+    /*caractéristique en tête*/
+header
+{
+	grid-column: 1/3;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	height: 10%;
+	padding-top: 100%;
+	width: 100%;
+	background-color: white;
+}
+  }

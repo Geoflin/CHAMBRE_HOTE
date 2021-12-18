@@ -32,6 +32,9 @@
 </nav>
 
 	<aside>
+		<ul>
+			<li>Piscine chauffée</li>
+        </ul>
 	</aside>
 
 	<main>
