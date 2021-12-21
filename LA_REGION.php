@@ -18,6 +18,7 @@
 		<link href="CSS/img.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/traduction.css" rel="stylesheet" type="text/css" />
         <link href="CSS/diaporama_region.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/mobile.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>

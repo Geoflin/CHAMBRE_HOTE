@@ -156,3 +156,10 @@
 .white{
 	color: white;
 }
+.iframe{
+	width: 600;
+	height: 450;
+}
+.mobile{
+	display: none;
+}

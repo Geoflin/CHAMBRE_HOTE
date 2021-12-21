@@ -18,6 +18,7 @@
 		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/img.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/traduction.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/mobile.css" rel="stylesheet" type="text/css" />
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	</head>
@@ -32,6 +33,12 @@
 	<?php require_once 'NAV.php'; ?>
 </nav>
 
+<main>
+	<div class="conteneur">
+		<div class="d1"></div>
+	  </div>
+</main>
+
 <aside>
 	<ul>
 		<li>2 voyageurs</li>
@@ -41,11 +48,7 @@
 	</ul>
 </aside>
 
-<main>
-	<div class="conteneur">
-		<div class="d1"></div>
-	  </div>
-</main>
+
 
 <footer>
 <?php require_once 'FOOTER.php'; ?>

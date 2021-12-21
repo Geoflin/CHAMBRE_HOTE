@@ -11,7 +11,82 @@ header
 	width: 100%;
 	background-color: white;
 }
-main, body{
-  display: block;
+/*caractéristique bandeau navigation*/
+nav
+{
+	font-family: Trattatello;
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	margin-bottom: 80px;
+	height: 50px;
+	color: white;
+	background-color: #BEA88F;
+	letter-spacing: 5px;
 }
-  }
+.cercle{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: solid;
+	background-color: #BEA88F;
+	color: #FFD700;
+	font-family: Arial, Helvetica, sans-serif;
+	border-radius: 50%;
+	height: 56vw;
+	width: 56vw;
+}
+body{
+	display: block;
+}
+.mobile{
+	display: flex;
+}
+.pc{
+	display: none;
+}
+/*caractéristique zone annexe*/
+aside
+{
+	grid-column: 1/1;
+	background-color: rgb(143, 119, 75);
+	height: 1fr;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: xx-large;
+	border-top: 0px;
+	padding-top: 0px;
+	grid-row: 2/2;
+}
+/*caractéristique corps*/
+main
+{
+	padding-top: 300px;
+	grid-column: 2/4;
+	grid-row: 2/2;
+	margin-top: 0;
+}
+.mainTitle{
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: small;
+}
+.d1{
+    margin: auto;
+    box-shadow: 0px 15px 10px -5px #777;
+    background-color: #EDEDED;
+    background-size: 100% 100%;
+    animation: fondu 16s ease-in-out infinite both;
+    animation-play-state: paused;
+}
+.conteneur{
+    width: 1000px;
+    margin: 50px auto;
+}
+.d1:hover{
+    animation-play-state: running;
+}
+}
