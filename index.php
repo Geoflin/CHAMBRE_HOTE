@@ -38,62 +38,6 @@
 			<p>Bruno et David sont heureux de vous accueillir tout au long de l’année, dans
 leur grande maison vigneronne de 1860.</p>
 
-			<h2><en>Our strong points</en>Nos points forts</h2>
-
-
-			<h3><en>Open all year !</en>Ouvert toute l'année !</h3>
-
-			
-
-				<div class="points_fort" id="Ambiance">
-
-				<div>
-					<div class="cercle">Ambiance</div>
-					<ul class="Ambiance sous_points_fort box">
-					<li class="Ambiance">Calme en coeur de village</li>
-                </ul>
-</div>
-
-<div>
-					<div class="cercle geo">Géographie</div>
-					<ul class="Geographie sous_points_fort box">
-					<li class="Geographie">Ville attractive</li>
-					<ul>
-						<li>20 minutes de Montpellier</li>
-						<li>autoroute à 5 km</li>
-						<li>Plage à proximité de la maison</li>
-						<ul>
-							<li>Frontignan:</li>
-							<ul>
-								<li>Plage des Aresquiers 20 minutes</li>
-								<li>Parking 800 places</li>
-							</ul>
-							<li>Balaruc-le-Vieux:</li>
-							<ul>
-								<li>8 minutes</li>
-							</ul>
-                        </ul>
-						<li class="Geographie">Massif gardiole:</li>
-					<ul>
-						<li>Ballade + plage frontini</li>
-                </ul>
-</div>
-
-<div>
-					<div class="cercle">Confiance</div>
-					<ul class="Confiance sous_points_fort box">
-					<li class="Confiance"><a class="white" target="blank" href="https://www.airbnb.fr/rooms/50823599?source_impression_id=p3_1639562834_eIg9dsYM2F%2F7Thi0">Superhoste airbnb</a></li>
-					<li class="Confiance"><a class="white" target="blank"  href="https://www.airbnb.fr/rooms/51403986?source_impression_id=p3_1639563672_%2FRezGkrj74ZyA3pX">Nombreux commentaires postifs</a></li>
-                </ul>
-				</div>
-
-
-</div>
-
-
-
-
-
 
 			<h2><en>REGION</en>Ils parlent de nous !</h2>
 
