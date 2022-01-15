@@ -14,7 +14,7 @@
     animation-play-state: running;
 }
 @keyframes fondu{
-    0%{background-image: url("../PHOTOS/COMMUN/IMG_20211219_193955.jpg");
+     0%{background-image: url("../PHOTOS/COMMUN/IMG_20211219_193955.jpg");
         background-repeat:no-repeat;
         width: 700px;
         height: 500px;}
