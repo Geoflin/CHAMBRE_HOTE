@@ -163,3 +163,26 @@
 .mobile{
 	display: none;
 }
+.accroche{
+	font-size: xx-large;
+}
+.accroche2{
+	font-size: x-large;
+}
+.underline{
+	text-decoration: underline;
+}
+.italic{
+	font-style: italic;
+}
+.petit_enfant{
+	font-size: 1.8rem;
+}
+.petit_enfant2{
+	font-size: 1.4rem;
+	list-style: none;
+}
+.center_vertical{
+	margin-top: 200px;
+	margin-bottom: 135px;
+}

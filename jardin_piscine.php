@@ -39,11 +39,16 @@
 	</main>
 
 	<aside>
-		<ul>
-			<li>300m borne voiture électrique</li>
-			<li>Parking gratuit (20m libre)</li>
-			<li>Piscine chauffée</li>
-        </ul>
+	<p>La maison est située au cœur de la commune de Gigean, entre Montpellier et Sète. Région plébiscitée pour son climat, Gigean est également connu pour son patrimoine, l’abbaye de Saint Félix de Monceau, créée au <a href="https://fr.wikipedia.org/wiki/Xe_si%C3%A8cle" target="_blank">Xe siècle.</a></p>
+	<p>Idéalement entouré de petits villages pittoresques comme Balaruc, Bouzigues ou Mèze, Gigean est à 10 km de l’étang de Thau et à 15 minutes des plages de Frontignan.</p>
+	<p>La maison dispose d’un jardin apaisant de 250m², soigneusement entretenu, avec piscine chauffée *, transat, patio, terrasse, coin repos.</p>
+	<p>Bruno et David vous accueillent dans cette belle maison vigneronne de 1860, sur deux niveaux, entièrement restaurée et climatisée.</p>
+	<ul class="petit_enfant2">
+		<li>WIFI sécurisé gratuit</li>
+		<li>Stationnement a proximité immédiate pour votre confort.</li>
+		<li>Borne électrique de rechargement à 300m.</li>
+	</ul>
+	<p>* piscine chauffée d’avril à octobre.</p>
 	</aside>
 
 	<footer>

@@ -40,12 +40,21 @@
 </main>
 
 <aside>
-	<ul>
-		<li>2 voyageurs</li>
-		<li>1 chambre</li>
-		<li>1 lit</li>
-		<li>1 salle de bain privée</li>
+<p class="accroche">Grande suite de 30 m² composée d’une chambre avec cheminée, balcon et d’une salle de bain avec double vasques, baignoire, douche et WC.</p>
+	<p class="underline">Equipements de la chambre</p>
+	<ul class="petit_enfant">
+		<li>Lit 160 x 200</li>
+		<li>Fauteuils</li>
+		<li>Cafetière / bouilloire</li>
+		<li>Penderie</li>
 	</ul>
+	<p class="underline">Equipements de la salle de bain :</p>
+	<ul class="petit_enfant">
+		<li>Sèche-cheveux</li>
+		<li>Miroir grossissant</li>
+		<li>Sèche-serviettes électrique</li>
+	</ul>
+	<p class="accroche2 underline italic">Les draps et le linge de maison sont fournis.</p>
 </aside>
 
 
