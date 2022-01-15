@@ -3,7 +3,7 @@
     box-shadow: 0px 15px 10px -5px #777;
     background-color: #EDEDED;
     background-size: 100% 100%;
-    animation: fondu 100s ease-in-out infinite both;
+    animation: fondu 80s ease-in-out infinite both;
     animation-play-state: paused;
 }
 .conteneur{
@@ -18,51 +18,56 @@
         background-repeat:no-repeat;
         width: 700px;
         height: 500px;}
-    6%{background-image: url("../PHOTOS/COMMUN/POT.jpg");
+        6%{background-image: url("../PHOTOS/COMMUN/IMG_20211219_193955.jpg");
+            background-repeat:no-repeat;
+            width: 700px;
+            height: 500px;}
+    12%{background-image: url("../PHOTOS/COMMUN/POT.jpg");
         background-repeat:no-repeat;
     width: 500px;
     height: 500px;
 }
-12%{background-image: url("../PHOTOS/COMMUN/POT2.jpg");
+18%{background-image: url("../PHOTOS/COMMUN/POT2.jpg");
         background-repeat:no-repeat;
         width: 500px;
         height: 500px;}
-    18%{background-image: url("../PHOTOS/COMMUN/PISCINE.jpg");
+    24%{background-image: url("../PHOTOS/COMMUN/PISCINE.jpg");
         background-repeat:no-repeat;
         width: 500px;
         height: 500px;}
-        24%{background-image: url("../PHOTOS/COMMUN/1.jpg");
+        30%{background-image: url("../PHOTOS/COMMUN/1.jpg");
             background-repeat:no-repeat;
             width: 700px;
             height: 500px;}
-            30%{background-image: url("../PHOTOS/COMMUN/2.jpg");
+            36%{background-image: url("../PHOTOS/COMMUN/2.jpg");
                 background-repeat:no-repeat;
                 width: 700px;
                 height: 500px;}
-                36%{background-image: url("../PHOTOS/COMMUN/3.jpg");
+                42%{background-image: url("../PHOTOS/COMMUN/3.jpg");
                     background-repeat:no-repeat;
                     width: 500px;
                     height: 500px;}
-                    42%{background-image: url("../PHOTOS/COMMUN/4.jpg");
+                    48%{background-image: url("../PHOTOS/COMMUN/4.jpg");
                         background-repeat:no-repeat;
                         width: 500px;
                         height: 500px;}
-                        58%{background-image: url("../PHOTOS/COMMUN/5.jpg");
+                        54%{background-image: url("../PHOTOS/COMMUN/5.jpg");
                             background-repeat:no-repeat;
                             width: 500px;
                             height: 500px;}
-                            64%{background-image: url("../PHOTOS/COMMUN/6.jpg");
+                            60%{background-image: url("../PHOTOS/COMMUN/6.jpg");
                                 background-repeat:no-repeat;
                                 width: 500px;
                                 height: 500px;}
-                                70%{background-image: url("../PHOTOS/COMMUN/7.jpg");
+                                66%{background-image: url("../PHOTOS/COMMUN/7.jpg");
                                     background-repeat:no-repeat;
                                     width: 500px;
-                                    height: 500px;}    76%{background-image: url("../PHOTOS/COMMUN/8.jpg");
+                                    height: 500px;}    
+                                    72%{background-image: url("../PHOTOS/COMMUN/8.jpg");
                                         background-repeat:no-repeat;
                                         width: 500px;
                                         height: 500px;}
-                                            82%{background-image: url("../PHOTOS/COMMUN/9.jpg");
+                                            78%{background-image: url("../PHOTOS/COMMUN/9.jpg");
         background-repeat:no-repeat;
         width: 500px;
         height: 500px;}

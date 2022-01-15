@@ -14,17 +14,29 @@
     animation-play-state: running;
 }
 @keyframes fondu{
-    0%{background-image: url("../PHOTOS/HERAULT/URBAIN.jpg");
-        background-repeat:no-repeat;
-        width: 90%;
-        height: 500px}
-    50%{background-image: url("../PHOTOS/HERAULT/RURAL.jpg");
+    0%{background-image: url("../PHOTOS/HERAULT/RURAL.jpg");
         background-repeat:no-repeat;
     width: 100%;
     height: 500px;
 }
-100%{background-image: url("../PHOTOS/HERAULT/MARIN.jpg");
-        background-repeat:no-repeat;
-        width: 90%;
-        height: 500px;}
+25%{background-image: url("../PHOTOS/LAST_REGION/IMG_20200916_151914.jpg");
+    background-repeat:no-repeat;
+width: 100%;
+height: 500px;
+}
+50%{background-image: url("../PHOTOS/LAST_REGION/IMG_20210611_160538.jpg");
+    background-repeat:no-repeat;
+width: 100%;
+height: 500px;
+}
+75%{background-image: url("../PHOTOS/LAST_REGION/IMG_20210627_104833.jpg");
+    background-repeat:no-repeat;
+width: 100%;
+height: 500px;
+}
+100%{background-image: url("../PHOTOS/LAST_REGION/IMG_20211118_121315.jpg");
+    background-repeat:no-repeat;
+width: 100%;
+height: 500px;
+}
 }
