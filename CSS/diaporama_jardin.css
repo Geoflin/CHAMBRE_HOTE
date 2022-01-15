@@ -3,7 +3,7 @@
     box-shadow: 0px 15px 10px -5px #777;
     background-color: #EDEDED;
     background-size: 100% 100%;
-    animation: fondu 80s ease-in-out infinite both;
+    animation: fondu 20s ease-in-out infinite both;
     animation-play-state: paused;
 }
 .conteneur{
@@ -14,67 +14,63 @@
     animation-play-state: running;
 }
 @keyframes fondu{
-     0%{background-image: url("../PHOTOS/COMMUN/IMG_20211219_193955.jpg");
-        background-repeat:no-repeat;
-        width: 700px;
-        height: 500px;}
-        6%{background-image: url("../PHOTOS/COMMUN/JARDIN.jpg");
+        0%{background-image: url("../PHOTOS/COMMUN/JARDIN.jpg");
             background-repeat:no-repeat;
-            width: 700px;
-            height: 500px;}
+            width: 1000px;
+            height: 800px;}
     12%{background-image: url("../PHOTOS/COMMUN/POT.jpg");
         background-repeat:no-repeat;
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 800px;
 }
 18%{background-image: url("../PHOTOS/COMMUN/POT2.jpg");
         background-repeat:no-repeat;
-        width: 500px;
-        height: 500px;}
+        width: 800px;
+        height: 800px;}
     24%{background-image: url("../PHOTOS/COMMUN/PISCINE.jpg");
         background-repeat:no-repeat;
-        width: 500px;
-        height: 500px;}
-        30%{background-image: url("../PHOTOS/COMMUN/1.jpg");
+        width: 800px;
+        height: 800px;}
+        30%{background-image: url("../PHOTOS/COMMUN/IMG_20211219_193955.jpg");
             background-repeat:no-repeat;
-            width: 700px;
-            height: 500px;}
+            width: 1000px;
+            height: 800px;}
             36%{background-image: url("../PHOTOS/COMMUN/2.jpg");
                 background-repeat:no-repeat;
-                width: 700px;
-                height: 500px;}
+                width: 1000px;
+                height: 800px;}
                 42%{background-image: url("../PHOTOS/COMMUN/3.jpg");
                     background-repeat:no-repeat;
-                    width: 500px;
-                    height: 500px;}
+                    width: 800px;
+                    height: 800px;}
                     48%{background-image: url("../PHOTOS/COMMUN/4.jpg");
                         background-repeat:no-repeat;
-                        width: 500px;
-                        height: 500px;}
+                        width: 800px;
+                        height: 800px;}
                         54%{background-image: url("../PHOTOS/COMMUN/5.jpg");
                             background-repeat:no-repeat;
-                            width: 500px;
-                            height: 500px;}
+                            width: 800px;
+                            height: 800px;}
                             60%{background-image: url("../PHOTOS/COMMUN/6.jpg");
                                 background-repeat:no-repeat;
-                                width: 500px;
-                                height: 500px;}
+                                width: 800px;
+                                height: 800px;}
                                 66%{background-image: url("../PHOTOS/COMMUN/7.jpg");
                                     background-repeat:no-repeat;
-                                    width: 500px;
-                                    height: 500px;}    
+                                    width: 800px;
+                                    height: 800px;}    
                                     72%{background-image: url("../PHOTOS/COMMUN/8.jpg");
                                         background-repeat:no-repeat;
-                                        width: 500px;
-                                        height: 500px;}
+                                        width: 800px;
+                                        height: 800px;}
                                             78%{background-image: url("../PHOTOS/COMMUN/9.jpg");
         background-repeat:no-repeat;
-        width: 500px;
-        height: 500px;}
+        width: 800px;
+        height: 800px;}
         100%{background-image: url("../PHOTOS/COMMUN/10.jpg");
             background-repeat:no-repeat;
-            width: 500px;
-            height: 500px;}
+            width: 800px;
+            height: 800px;}
 }
 
 
