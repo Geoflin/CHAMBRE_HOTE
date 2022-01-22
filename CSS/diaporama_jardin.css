@@ -47,23 +47,27 @@
                         background-repeat:no-repeat;
                         width: 800px;
                         height: 800px;}
-                        54%{background-image: url("../PHOTOS/COMMUN/5.jpg");
+                        54%{background-image: url("../PHOTOS/COMMUN/13.jpg");
                             background-repeat:no-repeat;
                             width: 800px;
                             height: 800px;}
-                            60%{background-image: url("../PHOTOS/COMMUN/6.jpg");
+                        60%{background-image: url("../PHOTOS/COMMUN/5.jpg");
+                            background-repeat:no-repeat;
+                            width: 800px;
+                            height: 800px;}
+                            66%{background-image: url("../PHOTOS/COMMUN/6.jpg");
                                 background-repeat:no-repeat;
                                 width: 800px;
                                 height: 800px;}
-                                66%{background-image: url("../PHOTOS/COMMUN/7.jpg");
+                                72%{background-image: url("../PHOTOS/COMMUN/7.jpg");
                                     background-repeat:no-repeat;
                                     width: 800px;
                                     height: 800px;}    
-                                    72%{background-image: url("../PHOTOS/COMMUN/8.jpg");
+                                    78%{background-image: url("../PHOTOS/COMMUN/8.jpg");
                                         background-repeat:no-repeat;
                                         width: 800px;
                                         height: 800px;}
-                                            78%{background-image: url("../PHOTOS/COMMUN/9.jpg");
+                                            84%{background-image: url("../PHOTOS/COMMUN/9.jpg");
         background-repeat:no-repeat;
         width: 800px;
         height: 800px;}
