@@ -25,7 +25,10 @@
 	<body id="registration">
 
 	<header>
-		<?php require_once 'HEADER.php'; ?>
+		<?php 
+		require_once 'HEADER.php'; 
+		?>
+
 	</header>
 
 	<nav>
