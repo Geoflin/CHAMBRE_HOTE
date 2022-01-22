@@ -2,7 +2,7 @@
 body
 {
 	display: grid;
-	grid-template-columns: 500px 1fr;
+	grid-template-columns: 800px 1fr;
 	grid-template-rows: 100px max-content max-content;
 	padding: none;
 	margin: none;
@@ -54,7 +54,6 @@ nav
 	color: white;
 	background-color: #BEA88F;
 	letter-spacing: 5px;
-
 }
 
 /*caractéristique éléments bandeau navigation*/
@@ -65,7 +64,6 @@ nav div
 	width: max-content;
 	font-size: xx-large;
 }
-
 /*caractéristique en tête*/
 header
 {

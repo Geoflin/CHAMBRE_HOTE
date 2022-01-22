@@ -5,8 +5,8 @@
 <div><a href="index.php"><en>HOME</en>Accueil</a></div>
 		<div>
 			<ul id="menu-deroulant">
-				<li><a href="#chambre"><en>BEDROOM</en>Les Chambres</a>
-					<ul>
+				<li><a href="#chambre">Les Chambres</a>
+					<ul id="petit_espace">
 						<li><a href="chambre_azur.php" id="azur"><en>Azure Room</en>Chambre Azur</a></li>
 						<li><a href="chambre_or.php" id="or"><en>Gold Room</en>Chambre Or</a></li>
 					</ul>

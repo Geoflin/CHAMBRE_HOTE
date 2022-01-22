@@ -11,7 +11,7 @@
 		<link href="CSS/class.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/divers.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/form.css" rel="stylesheet" type="text/css" />
-		<link href="CSS/general.css" rel="stylesheet" type="text/css" />
+		<link href="CSS/general2.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/id.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/phone.css" rel="stylesheet" type="text/css" />
 		<link href="CSS/table.css" rel="stylesheet" type="text/css" />

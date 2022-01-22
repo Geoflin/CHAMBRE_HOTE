@@ -55,6 +55,7 @@
 		<li>Sèche-serviettes électrique</li>
 	</ul>
 	<p class="accroche2 underline italic">Les draps et le linge de maison sont fournis.</p>
+	<h2>Prix de la chambre: 100€ petit déjeuner inclut.</h2>
 </aside>
 
 

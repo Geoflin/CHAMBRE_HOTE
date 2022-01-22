@@ -22,6 +22,7 @@
 #azur
 {
 	background-color: #BEA88F;
+	margin-top: 10px;
 }
 
 #or
@@ -33,4 +34,7 @@
 }
 #google_translate_element{
 	justify-self: flex-end;
+}
+#petit_espace{
+	margin-top: 500px;
 }
