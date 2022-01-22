@@ -3,7 +3,7 @@
     box-shadow: 0px 15px 10px -5px #777;
     background-color: #EDEDED;
     background-size: 100% 100%;
-    animation: fondu 80s ease-in-out infinite both;
+    animation: fondu 10s ease-in-out infinite both;
     animation-play-state: paused;
 }
 .conteneur{
@@ -49,7 +49,7 @@
                         height: 800px;}
                         54%{background-image: url("../PHOTOS/COMMUN/13.jpg");
                             background-repeat:no-repeat;
-                            width: 800px;
+                            width: 1000px;
                             height: 800px;}
                         60%{background-image: url("../PHOTOS/COMMUN/5.jpg");
                             background-repeat:no-repeat;
