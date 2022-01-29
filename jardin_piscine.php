@@ -45,7 +45,7 @@
 	<p>Bruno et David vous accueillent dans cette belle maison vigneronne de 1860, sur deux niveaux, entièrement restaurée et climatisée.</p>
 	<ul class="petit_enfant2">
 		<li>WIFI sécurisé gratuit</li>
-		<li>Stationnement a proximité immédiate pour votre confort.</li>
+		<li>Stationnement à proximité immédiate pour votre confort.</li>
 		<li>Borne électrique de rechargement à 300m.</li>
 	</ul>
 	<p>* piscine chauffée d’avril à octobre.</p>
