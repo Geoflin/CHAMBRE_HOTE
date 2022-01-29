@@ -42,7 +42,7 @@
 leur grande maison vigneronne de 1860.</p>
 
 
-			<h2><en>REGION</en>Ils parlent de nous !</h2>
+			<h2 class="police"><en>REGION</en>Ils parlent de nous !</h2>
 
 			<span class="airbn">
 			<h1><div class="airbnb-embed-frame" data-id="50823599" data-view="home" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.fr/rooms/50823599?guests=1&amp;amp;adults=1&amp;amp;s=66&amp;amp;source=embed_widget">Voir sur Airbn</a><a href="https://www.airbnb.fr/rooms/50823599?guests=1&amp;amp;adults=1&amp;amp;s=66&amp;amp;source=embed_widget" rel="nofollow">Maison vigneronne au cœur du village 1</a><script async="" src="https://www.airbnb.fr/embeddable/airbnb_jssdk"></script></div></h1>

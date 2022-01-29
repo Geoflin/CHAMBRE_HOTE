@@ -118,3 +118,11 @@ p{
 *:not(p){
 	font: Arial;
 }
+.police{
+	grid-column:1/3;
+	justify-content: center;
+	background-color:#BEA88F;
+	color: #FFD700;
+	font-family: Trattatello;
+	font-size: 2.2rem;
+}

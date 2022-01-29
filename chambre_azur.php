@@ -40,7 +40,7 @@
 	</main>
 
 <aside>
-	<p class="accroche">Agréable suite de plus de 30 m², comprenant une chambre avec vue sur le massif de la Gardiole et une salle de bain avec double vasques, baignoire, dressing et WC.</p>
+	<p class="accroche">Agréable suite de plus de 30 m², comprenant une chambre avec vue sur le massif de la Gardiole et une salle de bain avec double vasque, baignoire, dressing et WC.</p>
 	<p class="underline">Equipements de la chambre</p>
 	<ul class="petit_enfant">
 		<li>Lit 180 x 200</li>
@@ -55,9 +55,9 @@
 		<li>Miroir grossissant</li>
 		<li>Sèche-serviettes électrique</li>
 	</ul>
-	<p class="accroche2 underline italic">Les draps et le linge de maison sont fournis.</p>
+	<p class="accroche2 underline italic">Les draps et le linge de toilette sont fournis.</p>
 
-	<h2>Prix de la chambre: 100€ petit déjeuner inclus.</h2>
+	<h2 class="police">Prix de la chambre : 100€ petit déjeuner inclus.</h2>
 </aside>
 
 	<footer>
