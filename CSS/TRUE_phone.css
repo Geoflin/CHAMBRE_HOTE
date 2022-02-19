@@ -1,0 +1,51 @@
+/*style sur petits écrans*/
+@media screen and (max-width: 750px)
+{
+	/*redimensionnement des principales zones*/
+	body,nav,header,main
+	{
+		grid-template-columns: 100%;
+		grid-column: 1/3;
+		width: 100%;
+	}
+
+	/*rediriger zone nav et header*/
+	nav,header
+	{
+		flex-direction:column;
+	}
+
+	/*rediriger et réagencer zone nav et header*/
+	.inNumber
+	{
+		display: flex;
+		flex-direction: column;
+	}
+
+	/*rediriger et réagencer les numéros*/
+	.numbers
+	{
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	/*redimensionner tableau page classement*/
+	table
+	{
+		width: 100%;
+	}
+
+	/*redimensionner body page evenement*/
+	#Evenement
+	{
+		grid-template-columns: 125px 1fr;
+	}
+
+	/*redimensionner aside, liste d'événements et corps de la page événement*/
+	aside,#listEvenement,#evenement
+	{
+		grid-column: 1/3;
+	}
+}

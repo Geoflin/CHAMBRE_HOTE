@@ -189,3 +189,13 @@
 .opacity{
 	opacity: 0.7;
 }
+.center{
+	display: flex;
+	justify-content: center;
+}
+.margin_top{
+	margin-top: 2%;
+}
+.font_size{
+	font-size: large;
+}
