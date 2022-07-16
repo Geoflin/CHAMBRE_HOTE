@@ -51,6 +51,7 @@
 		<li>Stationnement à proximité immédiate pour votre confort.</li>
 		<li>Borne électrique de rechargement à 300m.</li>
 	</ul>
+	<p>Nous mettons à votre disposition une cuisine d'été dans notre garage. Elle est équipée d'une cuisinière, d'un mini-four, d'un micro-ondes, d'un réfrigérateur/congélateur, d'une cafetière (dosettes NESPRESSO) et de toute la vaisselle nécessaire. Idéal pour les séjours de moyenne et longue durée.Le patio et le jardin sont à votre disposition pour prendre vos repas</p>
 	<p>* piscine chauffée d’avril à octobre.</p>
 	</aside>
 
