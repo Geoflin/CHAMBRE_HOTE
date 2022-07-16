@@ -36,7 +36,7 @@
 	</nav>
 
 	<main class="maxwidth index">
-			<img src="PHOTOS/COMMUN/JARDIN.jpg" class="img"/>
+			<img src="PHOTOS/COMMUN/1.jpg" class="img"/>
 			<div class="style"><en>Open all year</en></div> 
 			<p class="accroche" size="">Bruno et David sont heureux de vous accueillir tout au long de l’année, dans
 leur grande maison vigneronne de 1860.</p>
