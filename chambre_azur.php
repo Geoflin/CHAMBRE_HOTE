@@ -60,7 +60,7 @@
 	</ul>
 	<p class="accroche2 underline italic">Les draps et le linge de toilette sont fournis.</p>
 
-	<h2 class="police">Prix de la chambre : 100€ petit déjeuner inclus + taxe de séjour: 0,88€/jour/personne </h2>
+	<h2 class="police">Prix de la chambre : 130€/nuit petit déjeuner inclus + taxe de séjour: 0,88€/jour/personne </h2>
 </aside>
 
 	<footer>

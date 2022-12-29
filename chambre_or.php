@@ -43,7 +43,7 @@
 </main>
 
 <aside>
-<p class="accroche">Grande suite de 30 m² composée d’une chambre avec cheminée, balcon et d’une salle de bain avec double vasque, baignoire, douche et WC.</p>
+<p class="accroche">Grande suite de 30 m² composée d’une chambre avec cheminée, balcon et d’une salle de bain avec double vasque, baignoire et WC.</p>
 	<p class="underline">Equipements de la chambre</p>
 	<ul class="petit_enfant">
 		<li>Lit 160 x 200</li>
@@ -58,7 +58,7 @@
 		<li>Sèche-serviettes électrique</li>
 	</ul>
 	<p class="accroche2 underline italic">Les draps et le linge de toilette sont fournis.</p>
-	<h2 class="police">Prix de la chambre : 100€ petit déjeuner inclus + taxe de séjour: 0,88€/jour/personne </h2>
+	<h2 class="police">Prix de la chambre : 130€/nuit petit déjeuner inclus + taxe de séjour: 0,88€/jour/personne </h2>
 </aside>
 
 

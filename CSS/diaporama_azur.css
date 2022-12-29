@@ -19,11 +19,11 @@
     animation-play-state: running;
 }
 @keyframes fondu{
-    0%{background-image: url("../PHOTOS/CHAMBRE_AZUR/ACCUEIL2.jpg");
+    0%{background-image: url("../PHOTOS/CHAMBRE_AZUR/OLD/ACCUEIL2.jpg");
         width: 100%;
         height: 100%;
     }
-    15%{background-image: url("../PHOTOS/CHAMBRE_AZUR/1.jpg");
+    15%{background-image: url("../PHOTOS/CHAMBRE_AZUR/5.jpg");
         background-repeat:no-repeat;
     width: 90%;
     height: 100%;
@@ -32,21 +32,21 @@
         background-repeat:no-repeat;
         width: 100%;
         height: 100%;}
-    50%{background-image: url("../PHOTOS/CHAMBRE_AZUR/5.jpg");
+    50%{background-image: url("../PHOTOS/CHAMBRE_AZUR/3.jpg");
         background-repeat:no-repeat;
         width: 100%;
         height: 100%;}
-        65%{background-image: url("../PHOTOS/CHAMBRE_AZUR/7.jpg");
+        65%{background-image: url("../PHOTOS/CHAMBRE_AZUR/4.jpg");
             width: 100%;
             height: 100%;
         }
         80%{background-image: url("../PHOTOS/CHAMBRE_AZUR/4.jpg");
             background-repeat:no-repeat;
-            width: 100%;
+            width: 90%;
             height: 100%;}
             100%{background-image: url("../PHOTOS/CHAMBRE_AZUR/4.jpg");
                 background-repeat:no-repeat;
-                width: 100%;
+                width: 90%;
                 height: 100%;
             }
     }
