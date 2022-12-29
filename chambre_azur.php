@@ -43,7 +43,7 @@
 	</main>
 
 <aside>
-	<p class="accroche">Agréable suite de plus de 30 m², comprenant une chambre avec vue sur le massif de la Gardiole et une salle de bain avec double vasque, baignoire, dressing et WC.</p>
+	<p class="accroche">Agréable suite de plus de 30 m², comprenant une chambre avec vue sur le massif de la Gardiole et une salle de bain avec double vasque, douche, dressing et WC.</p>
 	<p class="underline">Equipements de la chambre</p>
 	<ul class="petit_enfant">
 		<li>Lit 180 x 200</li>
