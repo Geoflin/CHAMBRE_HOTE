@@ -42,11 +42,11 @@
         }
         80%{background-image: url("../PHOTOS/CHAMBRE_AZUR/OLD/3.jpg");
             background-repeat:no-repeat;
-            width: 100%;
+            width: 120%;
             height: 100%;}
             100%{background-image: url("../PHOTOS/CHAMBRE_AZUR/OLD/3.jpg");
                 background-repeat:no-repeat;
-                width: 100%;
+                width: 120%;
                 height: 100%;
             }
     }
